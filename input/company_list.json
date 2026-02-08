@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple Inc",
+      "fiscal_year": 2023,
+      "metrics": ["Revenue", "NetIncome", "TotalAssets", "OperatingCashFlow"]
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft Corporation",
+      "fiscal_year": 2023,
+      "metrics": ["Revenue", "NetIncome", "TotalAssets", "OperatingCashFlow"]
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet Inc",
+      "fiscal_year": 2023,
+      "metrics": ["Revenue", "NetIncome", "TotalAssets", "OperatingCashFlow"]
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "Amazon.com Inc",
+      "fiscal_year": 2023,
+      "metrics": ["Revenue", "NetIncome", "TotalAssets", "OperatingCashFlow"]
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta Platforms Inc",
+      "fiscal_year": 2023,
+      "metrics": ["Revenue", "NetIncome", "TotalAssets", "OperatingCashFlow"]
+    }
+  ]
+}
